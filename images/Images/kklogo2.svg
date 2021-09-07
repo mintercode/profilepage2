@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:="http://www.w3.org/1999/" width="405.47" height="544" viewBox="0 0 405.47 544">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="4" y="101" width="351" height="256" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="KKwebdev" transform="translate(0 1)">
+    <g id="Header_Block_Purple" data-name="Header Block Purple" transform="translate(74.47 9.931)">
+      <text id="Web_Development_Services." data-name="Web Development  Services." transform="translate(0 47)" fill="#5e1579" font-size="49" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">Web</tspan><tspan x="0" y="59">Development </tspan><tspan x="0" y="118">Services.</tspan></text>
+    </g>
+    <g id="Component_12_4" data-name="Component 12 – 4" transform="translate(330.003 192) rotate(90)">
+      <g id="Scroll_Group_1" data-name="Scroll Group 1" transform="translate(-4 -102)" clip-path="url(#clip-path)" style="isolation: isolate">
+        <text id="KNOCK" transform="translate(64 357) rotate(-90)" fill="#5e1579" font-size="70" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">KNOCK</tspan></text>
+      </g>
+    </g>
+    <g id="Component_12_4-2" data-name="Component 12 – 4">
+      <text id="KNOCK-2" data-name="KNOCK" transform="translate(69 259) rotate(-90)" fill="#5e1579" font-size="71" font-family="Inter-Bold, Inter" font-weight="700"><tspan x="0" y="0">KNOCK</tspan></text>
+    </g>
+  </g>
+</svg>
